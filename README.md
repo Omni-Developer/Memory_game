@@ -10,7 +10,7 @@ A fun memory game built with HTML, CSS, and JavaScript using emojis! Try to matc
 - Victory message
 
 ## 🔗 Live Demo
-[Click here to play the game!](https://Omni-Developer.github.io/Memory-game/)
+[Click here to play the game!]( https://omni-developer.github.io/Memory_game/)
 
 ## 📸 Screenshot
 ![Game Screenshot](screenshot)
